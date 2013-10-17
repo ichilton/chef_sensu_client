@@ -2,7 +2,7 @@ name             'sensu_client'
 maintainer       'Ian Chilton'
 maintainer_email 'ian@ichilton.co.uk'
 license          'All rights reserved'
-description      'Installs/Configures sensu_client'
+description      'Install/Setup sensu-client on a node'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.0'
 
